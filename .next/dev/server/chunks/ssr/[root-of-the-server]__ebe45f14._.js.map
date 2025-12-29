@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/bhargavikerhalkar/Documents/Pratyush/VS_Code/Next/Next.js/app/dashboard/customers/page.tsx"],"sourcesContent":["export default function Page() {\n  return <p>customers Page</p>;\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAO,waAAC;kBAAE;;;;;;AACZ"}}]
+}
